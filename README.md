@@ -22,10 +22,10 @@ For my deep dive into the Real Estate market, I harnessed the power of several k
 
 ## The Analysis
 1. To answer the first question, "What is the Neighborhood with the lowest Price per square root?", I created a chart in Power BI.
-![Neighborhood Price Analysis](asset/visuals/Neighborhood price Analysis.png)
+ ![Neighborhood price Analysis](https://github.com/user-attachments/assets/b4e201d9-b1b3-47b6-9ff9-bafe55230ddf)
 It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08.
 
-3. What's the median price we should expect to buy a house in Florence for?
+2. What's the median price we should expect to buy a house in Florence for?
 
 The median price per Square Meter in Florence is €3900.
 
