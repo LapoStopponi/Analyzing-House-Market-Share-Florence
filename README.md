@@ -1,13 +1,13 @@
 # Analyzing-House-Market-Share-Florence
 
 ## Introduction
-Everyone who has ever approached the Real Estate market knows that finding the right house to buy is no easy job. A friend of mine was struggling to find the right solution for him, so I jumped in and helped him out. He was interested in a house with 4 bedrooms, 
+Everyone who has ever approached the Real Estate market knows that finding the right house to buy is no easy job. A friend of mine was struggling to find the right solution for him, so I jumped in and helped him out. He was interested in a house with 4 bedroom, 
 and he also didn't want to overpay it. To help him, I conducted an analysis and shared the results with him. Below, you can find how I did it.
 
 
 ## Background
 There were multiple questions I wanted to answer in order to help my friend. He wanted to know:
-1. What is the Neighborhood with the lowest Price per square root?
+1. What is the Neighborhood with the lowest Price per square meter?
 2. What's the median price we should expect to buy a house in Florence for?
 3. Which House types are on the market, and how many of each type are available?
 4. What's the median price per square meter for each house type?
@@ -59,7 +59,7 @@ This shows the relationship between the median price and the median area.
 
 ![relationship median price and median area](https://github.com/user-attachments/assets/f8d3cb7e-5dc8-4e4b-ba1a-79882ba5d47a)
 
-This shows the relationship between the median price and the median area for 3 bedroom houses. 
+This shows the relationship between the median price and the median area for 3-bedroom houses. 
 ![Median price per 3 bedrooms by neighborhood](https://github.com/user-attachments/assets/fe433bf3-78d6-4a0c-b45a-9b01d42e4e31)
 
 
