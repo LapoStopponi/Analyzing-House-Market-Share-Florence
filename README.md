@@ -3,7 +3,7 @@
 ## Introduction
 Everyone who has ever approached the Real Estate market knows that finding the right house to buy is no easy job. A friend of mine was struggling to find the right solution for him, so I jumped in and helped him out. He was interested in a house with 4 bedrooms, 
 and he also didn't want to overpay it. To help him, I conducted an analysis and shared the results with him. Below, you can find how I did it.
-![ok](Median price per 3 bedrooms by neighborhood.png)
+(![ok](asset/visuals/Median price per 3 bedrooms by neighborhood.png))
 ## Background
 There were multiple questions I wanted to answer in order to help my friend. He wanted to know:
 1. What is the Neighborhood with the lowest Price per square root?
