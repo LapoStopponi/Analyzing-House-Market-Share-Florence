@@ -3,10 +3,7 @@
 ## Introduction
 Everyone who has ever approached the Real Estate market knows that finding the right house to buy is no easy job. A friend of mine was struggling to find the right solution for him, so I jumped in and helped him out. He was interested in a house with 4 bedrooms, 
 and he also didn't want to overpay it. To help him, I conducted an analysis and shared the results with him. Below, you can find how I did it.
-![ok](asset/visuals/Median price per 3 bedrooms by neighborhood.png)
-![test](asset/visuals/median price per m2 florence.png)
-![prova](Median price per 3 bedrooms by neighborhood.png)
-![Neighborhood with the lowest price per square meter](https://github.com/user-attachments/assets/f71512dc-59ec-4eff-9889-ff99254ca1a4)
+
 
 ## Background
 There were multiple questions I wanted to answer in order to help my friend. He wanted to know:
@@ -45,7 +42,8 @@ The house type with the highest Median Price per square meter is Attico, with 5.
 Novoli Baracca is the Neighborhood with the highest number of houses available on the market.
 
 6. Is there a correlation between the Median Price and the Median Area in different Neighborhoods?
-![Median Price per 3 bedrooms](asset/visuals/Median price per 3 bedrooms by neighborhood.png)
+![Neighborhood with the lowest price per square meter](https://github.com/user-attachments/assets/f71512dc-59ec-4eff-9889-ff99254ca1a4)
+
 To determine if there is a correlation between the Median Price and the Median Area of the houses in different Neighborhoods, I carefully analyzed the graph. There is a general trend when neighborhoods with higher prices tend to have larger median areas, and vice versa. Neighborhoods on the left side of the graph, show both high prices and high median areas. Neighborhoods on the right side of the graph, tend to have both lower prices and lower median areas. There are some exceptions to this general trend, where the relationship between Price and Area doesn't perfectly follow the pattern. Based on this observation, I can conclude that there is a positive correlation between the median price and the median area of properties across different neighborhoods. However, the correlation is not perfect, suggesting that factors other than size influence property prices in various Neighborhoods. To quantitatively confirm this correlation, it would be necessary to calculate a correlation coefficient using precise numerical data. In the neighborhood where the Median Area is relatively higher than the Median price, the houses might be more convenient in space/price terms. Some examples would be Due Strade - Ponte all'Asse, San Jacopino, Isolotto. In these Neighborhoods, you could theoretically get more space for your money rather than in other neighborhoods, with a higher price/area rate. But we should also consider that this analysis is based only on the median data, it doesn't necessarily apply to all the properties in the Neighborhoods. And also the value of the house doesn't depend solely on the dimensions, but on other factors too. 
 
 
