@@ -21,11 +21,13 @@ For my deep dive into the Real Estate market, I harnessed the power of several k
 -**Power BI**: The chosen data visualization tool, ideal for showcasing my discoveries
 
 ## The Analysis
-1. To answer the first question, "What is the Neighborhood with the lowest Price per square root?", I created a chart in Power BI.
+1. To answer the first question, "What is the Neighborhood with the lowest Price per square meter?", I created a chart in Power BI.
  ![Neighborhood price Analysis](https://github.com/user-attachments/assets/b4e201d9-b1b3-47b6-9ff9-bafe55230ddf)
 It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08.
+But my friend is looking for a 3 bedroom, and things change, in that case, as you can see from this graph.
+![Median Price per square meter by neighborhood 3 bedrooms](https://github.com/user-attachments/assets/4e644eb7-6768-4b42-85e2-1ba133bf25e6)
 
-2. What's the median price we should expect to buy a house in Florence for?
+3. What's the median price we should expect to buy a house in Florence for?
 
 
 ![median price per house in Florence](https://github.com/user-attachments/assets/e5d92391-5567-412d-9f9c-739d5ae45fe6)
