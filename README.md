@@ -24,9 +24,9 @@ For my deep dive into the Real Estate market, I harnessed the power of several k
 1. To answer the first question, "What is the Neighborhood with the lowest Price per square meter?", I created a chart in Power BI.
  ![Neighborhood price Analysis](https://github.com/user-attachments/assets/b4e201d9-b1b3-47b6-9ff9-bafe55230ddf)
 It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08.
-But my friend is looking for a 3 bedroom, and things change, in that case, as you can see from this graph.
+But my friend is looking for a 3 bedroom, and things change, in that case, as you can see from this graph. With Novoli-Parco di San Donato  €2708,74 is the Neighborhood with the lowest price per square meter as for the 3 bedrooms. 
 ![Median Price per square meter by neighborhood 3 bedrooms](https://github.com/user-attachments/assets/4e644eb7-6768-4b42-85e2-1ba133bf25e6)
-
+W
 3. What's the median price we should expect to buy a house in Florence for?
 
 
@@ -55,8 +55,11 @@ Novoli Baracca is the Neighborhood with the highest number of houses available o
 
 6. Is there a correlation between the Median Price and the Median Area in different Neighborhoods?
 
+This shows the relationship between the median price and the median area.
+
 ![relationship median price and median area](https://github.com/user-attachments/assets/f8d3cb7e-5dc8-4e4b-ba1a-79882ba5d47a)
 
+This shows the relationship between the median price and the median area for 3 bedroom houses. 
 ![Median price per 3 bedrooms by neighborhood](https://github.com/user-attachments/assets/fe433bf3-78d6-4a0c-b45a-9b01d42e4e31)
 
 
