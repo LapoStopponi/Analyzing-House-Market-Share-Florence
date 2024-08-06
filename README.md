@@ -48,6 +48,8 @@ Novoli Baracca is the Neighborhood with the highest number of houses available o
 
 ![median price per 4 bedrooms](https://github.com/user-attachments/assets/20213d65-b232-4032-8d82-1cccf6e3ddd1)
 
+![relationship median price and median area](https://github.com/user-attachments/assets/f8d3cb7e-5dc8-4e4b-ba1a-79882ba5d47a)
+
 ![Median price per 3 bedrooms by neighborhood](https://github.com/user-attachments/assets/fe433bf3-78d6-4a0c-b45a-9b01d42e4e31)
 
 
