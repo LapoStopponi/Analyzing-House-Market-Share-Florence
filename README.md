@@ -35,6 +35,8 @@ The median price we should expect to buy a house in Florence is €390000.
 
 3. Which House types are on the market, and how many of each type are available?
 
+![Number of houses per house type](https://github.com/user-attachments/assets/132f24be-32da-4cf4-b2a2-03ee0e37041a)
+
 There are 12 house types on the Market, the most available type in terms of quantity is "Appartamento" (Apartment), which is 27,53% of the total. 
 
 4. What's the median price per square meter for each house type?
