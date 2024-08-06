@@ -28,8 +28,10 @@ It came out that the Neighborhood with the lowest price per square meter is Pere
 2. What's the median price we should expect to buy a house in Florence for?
 
 
-![median price per m2 florence](https://github.com/user-attachments/assets/a2f8b1ae-8de8-401f-94bc-c96293382fc0)
-The median price per Square Meter in Florence is €3900.
+![median price per house in Florence](https://github.com/user-attachments/assets/e5d92391-5567-412d-9f9c-739d5ae45fe6)
+
+
+The median price we should expect to buy a house in Florence is €390000.
 
 3. Which House types are on the market, and how many of each type are available?
 
@@ -37,7 +39,7 @@ There are 12 house types on the Market, the most available type in terms of quan
 
 4. What's the median price per square meter for each house type?
 
-The house type with the highest Median Price per square meter is Attico, with 5.000 as the median price per square meter. The lowest median price per square meter goes to Casale/Cascina.
+The house type with the highest Median Price per square meter is Attico, with €5.000 as the median price per square meter. The lowest median price per square meter goes to Casale/Cascina.
 
 5. In which neighborhood is the biggest pool of houses available?
 
