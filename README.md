@@ -43,6 +43,8 @@ The house type with the highest Median Price per square meter is Attico, with â‚
 
 5. In which neighborhood is the biggest pool of houses available?
 
+![Number of houses per Neighborhood](https://github.com/user-attachments/assets/ec7794fc-52a9-414f-b3ed-36865a632ccf)
+
 Novoli Baracca is the Neighborhood with the highest number of houses available on the market.
 
 6. Is there a correlation between the Median Price and the Median Area in different Neighborhoods?
