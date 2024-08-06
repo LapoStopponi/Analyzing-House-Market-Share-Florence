@@ -6,6 +6,8 @@ and he also didn't want to overpay it. To help him, I conducted an analysis and 
 ![ok](asset/visuals/Median price per 3 bedrooms by neighborhood.png)
 ![test](asset/visuals/median price per m2 florence.png)
 ![prova](Median price per 3 bedrooms by neighborhood.png)
+![Neighborhood with the lowest price per square meter](https://github.com/user-attachments/assets/f71512dc-59ec-4eff-9889-ff99254ca1a4)
+
 ## Background
 There were multiple questions I wanted to answer in order to help my friend. He wanted to know:
 1. What is the Neighborhood with the lowest Price per square root?
