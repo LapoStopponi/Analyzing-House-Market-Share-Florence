@@ -15,14 +15,14 @@ There were multiple questions I wanted to answer in order to help my friend. He 
 
 ## Tools I used
 For my deep dive into the Real Estate market, I harnessed the power of several key tools:
--**RowsX**: I used this Chrome extenstion to data scrape the data that I needed from the Real Estate portal, Idealista.
+-**RowsX**: I used this Chrome extension to data scrape the data that I needed from the Real Estate portal, Idealista.
 -**Excel**: I then loaded the data into Excel's Power Query, to clean the data and transform it to my needs. The Main cleaning jobs were: removing duplicates, creating new columns to specify metrics, and transforming data types.
 -**Power BI**: The chosen data visualization tool, ideal for showcasing my discoveries
 
 ## The Analysis
 1. To answer the first question, "What is the Neighborhood with the lowest Price per square root?", I created a chart in Power BI.
-
-It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08 .
+asset/visuals/Neighborhood price Analysis.png
+It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08.
 
 2. What's the median price we should expect to buy a house in Florence for?
 
