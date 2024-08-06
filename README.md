@@ -39,6 +39,8 @@ There are 12 house types on the Market, the most available type in terms of quan
 
 4. What's the median price per square meter for each house type?
 
+![Median price per m2 by house type](https://github.com/user-attachments/assets/73e37278-b28c-4f3f-b04b-cf7b284254f2)
+
 The house type with the highest Median Price per square meter is Attico, with €5.000 as the median price per square meter. The lowest median price per square meter goes to Casale/Cascina.
 
 5. In which neighborhood is the biggest pool of houses available?
