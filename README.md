@@ -24,7 +24,7 @@ For my deep dive into the Real Estate market, I harnessed the power of several k
 ![Neighborhood Price Analysis](asset/visuals/Neighborhood price Analysis.png)
 It came out that the Neighborhood with the lowest price per square meter is Peretola, with a Price per square meter of  €2864,08.
 
-2. What's the median price we should expect to buy a house in Florence for?
+3. What's the median price we should expect to buy a house in Florence for?
 
 The median price per Square Meter in Florence is €3900.
 
